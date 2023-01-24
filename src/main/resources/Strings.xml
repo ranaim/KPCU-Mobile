@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Accounts page -->
+    <string name="account_page_title">ACCOUNTS</string>
+    <!-- Error pop-up -->
+    <string name="error_popup_title">Error</string>
+    <string name="error_popup_msg">Invalid User ID or Password</string>
+</resources>

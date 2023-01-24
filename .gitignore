@@ -1,0 +1,6 @@
+/test-output/
+/evidence/
+/Extent/
+/target/
+*.classpath
+*.project
